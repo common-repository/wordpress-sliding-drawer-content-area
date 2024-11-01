@@ -1,0 +1,37 @@
+
+====SOD Drawer by 61 Designs=======
+License: GNU General Public License (GPL) version 2
+See included Lincense.txt file for information on the GPL v2 license
+
+==Customization and Custom Work===
+61 Designs is a talented and creative web development studio, with 10+ years experience. If you're looking to have this plugin created or need custom work performed, we're your people. 
+Contact us at: 
+support@sixtyonedesigns.com
+http://sixtyonedesigns.com
+
+
+
+Installation:
+1. Login to your wordpress admin
+2. Go to the Plugins page
+3. Click "Add New"
+4. Once you're on the "Install Plugins" page, click the "Upload" link. 
+5. After you click the upload option, click the "choose file" button, which will open a standard, filesystem dialog. Navigate to where you've save the plugin zip, and choose the plugin zip file. 
+6. Once the path to the file is in the box, click the "Install Now button. 
+7. After you've done that, your file should now show up in your "Installed Plugins" page. 
+8. Click activate and go to the "Sliding Drawer" menu in your wordpress admin section. 
+
+Configuring:
+The position, color, handle text, and widget areas can all be configured in the plugin's options page. 
+1. Click the new wordpress menu item for the plugin. 
+2. Once on the options page, configure the position, color, handle text and number of widget areas by selecting them from the appropriate dropdown
+3. Press save. 
+
+Drawer Content and Widgets
+Once you configure and save your sliding drawer, navigate to the wordpress admin widget page. You'll now see 1-4 new widget areas (Drawer Plugin Widget #1-4) depending on how many you chose to have. 
+1. Drag any widget into your new drawer widget area and press save.
+  
+
+Changelog
+= 1.0 =
+* Initial release
